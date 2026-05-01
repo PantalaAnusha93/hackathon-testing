@@ -14,6 +14,7 @@ import jwt
 import datetime
 import os
 from functools import wraps
+import streamlit
 
 # ──────────────────────────────────────────────
 # App Configuration
